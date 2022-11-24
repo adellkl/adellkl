@@ -30,9 +30,7 @@
 ### :man_technologist: About Me : 
 
 I am a junior web developer, student in the field of multimedia and internet. Passionate about computer science and design. 
-
 ---
-
 - :telescope: I am currently looking for an internship of 10 weeks minimum in the field of web development.
 
 - :seedling: I like to explore the architecture of the sites.

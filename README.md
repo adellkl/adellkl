@@ -22,7 +22,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://im2.ezgif.com/tmp/ezgif-2-49aa5ed16b.gif" width="600" height="300"/>
+  <img src="http://aloukal.alwaysdata.net/wp-content/uploads/2022/11/DearUntidyAzurevasesponge-size_restricted.gif" width="600" height="300"/>
 </div>
 
 ---

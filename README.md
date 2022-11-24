@@ -39,7 +39,7 @@ I am a junior web developer, student in the field of multimedia and internet. Pa
 
 - :zap: I am part of an association that helps people in need  
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](adellkl)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adel-loukal-257541221/)
 
 - ✌🏻 Mor about me: [![Linktree Badge](https://img.shields.io/badge/-linktree-blue?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/adel.loukal)
 

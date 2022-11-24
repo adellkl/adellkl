@@ -58,7 +58,7 @@ I am a junior web developer, student in the field of multimedia and internet. Pa
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
  
  
-
+ 
 ---
 
 ### :fire: My Stats :

@@ -30,9 +30,7 @@
 
 ---
 
-### :man_technologist: About Me : 
-
-I am a junior web developer, student in the field of multimedia and internet. Passionate about computer science and design. 
+### :man_technologist: About Me : I am a junior web developer, student in the field of multimedia and internet. Passionate about computer science and design. 
 ---
 - :telescope: I am currently looking for an internship of 10 weeks minimum in the field of web development.
 
@@ -50,7 +48,7 @@ I am a junior web developer, student in the field of multimedia and internet. Pa
 
 
   
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -60,7 +58,7 @@ I am a junior web developer, student in the field of multimedia and internet. Pa
 ### :hammer_and_wrench: Back-End Technologies 
  
  ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Php](https://img.shields.io/badge/Php-%2300f.svg?style=for-the-badge&logo=Php&logoColor=white) 
+ ![Php](https://img.shields.io/badge/Php-%2300f.svg?style=for-the-badge&logo=Php&logoColor=white) 
  ![Phpmyadmin](https://img.shields.io/badge/Phpmyadmin-%231572B6.svg?style=for-the-badge&logo=Phpmyadmin&logoColor=white)
  
  ### :hammer_and_wrench: Tools  

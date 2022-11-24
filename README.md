@@ -26,7 +26,7 @@
 <a href="https://instagram.com/@adeel.lkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adeel.lkl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/adel loukal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adel loukal" height="30" width="40" /></a>
 </p>
-<p> <img align="right"  src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"> </p>
+<p> <img align="right"  height="400px" width="500px" src="https://www.creation-site-internet-guadeloupe.fr/creation-site-internet-guadeloupe/alex.gif"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 

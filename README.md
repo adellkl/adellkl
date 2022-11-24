@@ -65,6 +65,5 @@ I am a junior web developer, student in the field of multimedia and internet. Pa
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adellkl&theme=dark&background=000000)](https://git.io/streak-stats) <br> <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adellkl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adellkl&show_icons=true&locale=en&layout=compact" alt="adellkl" /></p> <br> <br>
 

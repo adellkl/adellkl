@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress Badge"/>
   </a>
   <a href="mailto:adelloukal2@gmail.com" alt="Email Link">
-    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=Contact Me&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=black">
+    <img alt="Email badge" src="https://img.shields.io/static/v1?message=Contact Me&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=black">
   </a>
 </div>
 <p  align="center">

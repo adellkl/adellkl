@@ -36,13 +36,13 @@
 
 ---
 
-### :man_technologist: About Me : I am a junior web developer, student in the field of multimedia and internet. Passionate about computer science and design. 
----
+### :man_technologist: About Me : 
+
 - :telescope: I am currently looking for an internship of 10 weeks minimum in the field of web development.
 
-- :seedling: I like to explore the architecture of the sites.
+- :seedling: I like to explore the architecture of the sites.    
 
-- :zap: I am part of an association that helps people in need  
+- :zap: I am part of an association that helps people in need : [![Instagram Badge](https://img.shields.io/badge/-instageam-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pourvous_parnous/?hl=fr)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adel-loukal-257541221/)
 

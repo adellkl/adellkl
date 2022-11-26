@@ -23,7 +23,7 @@
 <img  src="https://komarev.com/ghpvc/?username=adellkl&style=flat-square&color=blue" alt="stats visit"/>
 </p>
 <h1>
-  hey, welcome to my Github
+  Hey, welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p style="margin: 15px;" align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-### :hammer_and_wrench: Front-End Technologies 
+### 💻 : Front-End Technologies 
 
 
   
@@ -61,7 +61,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### :hammer_and_wrench: Back-End Technologies 
+### ⚙️ : Back-End Technologies 
  
  ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Php](https://img.shields.io/badge/Php-%2300f.svg?style=for-the-badge&logo=Php&logoColor=white) 

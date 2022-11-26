@@ -26,6 +26,9 @@
   hey, welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Developer+frontend;Sport+addict;Student">
+</p>
 
 <div align="center">
   <img src="http://aloukal.alwaysdata.net/wp-content/uploads/2022/11/DearUntidyAzurevasesponge-size_restricted.gif" width="600" height="300"/>

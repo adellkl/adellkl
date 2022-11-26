@@ -15,6 +15,9 @@
    <a href="https://aloukal.alwaysdata.net/">
     <img src="https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress Badge"/>
   </a>
+  <a href="mailto:adelloukal2@gmail.com" alt="Email Link">
+    <img alt="Custom badge" src="https://img.shields.io/static/v1?message=Contact Me&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=black">
+  </a>
 </div>
 <p  align="center">
 <img  src="https://komarev.com/ghpvc/?username=adellkl&style=flat-square&color=blue" alt="stats visit"/>

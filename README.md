@@ -42,7 +42,7 @@
 
 - :seedling: I like to explore the architecture of the sites.    
 
-- :zap: I am part of an association that helps people in need : [![Instagram Badge](https://img.shields.io/badge/-instageam-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pourvous_parnous/?hl=fr)
+- :zap: I am part of an association that helps people in need : [![Instagram Badge](https://img.shields.io/badge/-instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pourvous_parnous/?hl=fr)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adel-loukal-257541221/)
 

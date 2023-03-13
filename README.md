@@ -35,48 +35,26 @@
 </div>
 
 ---
-
-### :man_technologist: About Me : 
-
-- :telescope: I am currently looking for an internship of 10 weeks minimum in the field of web development.
-
-- :seedling: I like to explore the architecture of the sites.    
-
-- :zap: I am part of an association that helps people in need : [![Instagram Badge](https://img.shields.io/badge/-instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pourvous_parnous/?hl=fr)
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adel-loukal-257541221/)
-
-- ✌🏻 More about me: [![Linktree Badge](https://img.shields.io/badge/-linktree-blue?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/adel.loukal)
-
----
-
-### 💻 : Front-End Technologies 
+# 💫 About Me:
+🔭 I am currently looking for an internship of 10 weeks minimum in the field of web development.<br><br>🌱 I like to explore the architecture of the sites.<br><br>⚡ I am part of an association that helps people in need : Instagram Badge<br><br>📫How to reach me: Linkedin Badge<br><br>✌🏻 More about me: Linktree Badge
 
 
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adeel.lkl/?hl=fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adel-loukal-257541221/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dedel_75) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@adelloukal6626) 
 
-### ⚙️ : Back-End Technologies 
- 
- ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
- ![Php](https://img.shields.io/badge/Php-%2300f.svg?style=for-the-badge&logo=Php&logoColor=white) 
- ![Phpmyadmin](https://img.shields.io/badge/Phpmyadmin-%231572B6.svg?style=for-the-badge&logo=Phpmyadmin&logoColor=white)
- 
- ### :hammer_and_wrench: Tools  
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adellkl&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adellkl&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adellkl&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adellkl&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### :fire: My Stats :
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adellkl&theme=dark&background=000000)](https://git.io/streak-stats) <br> <br>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adellkl&show_icons=true&locale=en&layout=compact" alt="adellkl" /></p> <br> <br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 

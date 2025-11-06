@@ -34,26 +34,6 @@
     <animate attributeName="cy" values="630; 0" dur="49.16s" begin="7.71s" repeatCount="indefinite"></animate>
     <animate attributeName="cx" values="785.3; 917.74" dur="49.16s" begin="7.71s" repeatCount="indefinite"></animate>
   </circle>
-  <circle opacity="0.4" r="3.02" fill="#fff" clip-path="url(#b)">
-    <animate attributeName="cy" values="630; 0" dur="21.46s" begin="1.66s" repeatCount="indefinite"></animate>
-    <animate attributeName="cx" values="233.72; 422.37" dur="21.46s" begin="1.66s" repeatCount="indefinite"></animate>
-  </circle>
-  <circle opacity="0.39" r="2.91" fill="#fff" clip-path="url(#b)">
-    <animate attributeName="cy" values="630; 0" dur="71.08s" begin="2.59s" repeatCount="indefinite"></animate>
-    <animate attributeName="cx" values="508.78; 717.49" dur="71.08s" begin="2.59s" repeatCount="indefinite"></animate>
-  </circle>
-  <circle opacity="0.3" r="2.28" fill="#fff" clip-path="url(#b)">
-    <animate attributeName="cy" values="630; 0" dur="70.43s" begin="15.78s" repeatCount="indefinite"></animate>
-    <animate attributeName="cx" values="463.86; 551.45" dur="70.43s" begin="15.78s" repeatCount="indefinite"></animate>
-  </circle>
-  <circle opacity="0.25" r="1.89" fill="#fff" clip-path="url(#b)">
-    <animate attributeName="cy" values="630; 0" dur="48.96s" begin="0.37s" repeatCount="indefinite"></animate>
-    <animate attributeName="cx" values="949.04; 1062.53" dur="48.96s" begin="0.37s" repeatCount="indefinite"></animate>
-  </circle>
-  <circle opacity="0.18" r="1.35" fill="#fff" clip-path="url(#b)">
-    <animate attributeName="cy" values="630; 0" dur="24.99s" begin="1.91s" repeatCount="indefinite"></animate>
-    <animate attributeName="cx" values="821.14; 669.88" dur="24.99s" begin="1.91s" repeatCount="indefinite"></animate>
-  </circle>
   
   <g clip-path="url(#b)" opacity="0">
     <animate attributeName="opacity" values="0;0.3" dur="3s" begin="0.5s" fill="freeze"></animate>
@@ -61,19 +41,23 @@
     <rect x="-156" y="-176" width="1512" height="982" fill="url(#p5)"></rect>
   </g>
   
-  <!-- Texte "adel Loukal" avec animation -->
-  <g transform="translate(600, 315)">
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" letter-spacing="8">
-      <tspan opacity="0">
-        adel Loukal
-        <animate attributeName="opacity" values="0;1" dur="1.5s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.16, 1, 0.3, 1"></animate>
-      </tspan>
+  <!-- Textes avec animations de gradient -->
+  <g transform="translate(600, 280)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1.5s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.16, 1, 0.3, 1"></animate>
+    
+    <!-- Adel Loukal avec gradient animé -->
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="url(#animatedGradient)" letter-spacing="6">
+      Adel Loukal
     </text>
     
-    <!-- Effet de lumière sur le texte -->
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="url(#textGradient)" letter-spacing="8" opacity="0">
-      adel Loukal
-      <animate attributeName="opacity" values="0;0.6;1" dur="2s" begin="1.2s" fill="freeze"></animate>
+    <!-- Effet de lueur sur Adel Loukal -->
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="url(#glowGradient)" letter-spacing="6" opacity="0.6" filter="url(#glow)">
+      Adel Loukal
+    </text>
+    
+    <!-- Front-end developer avec gradient animé -->
+    <text x="0" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="600" fill="url(#secondaryGradient)" letter-spacing="4" opacity="0.95">
+      Front-end developer
     </text>
   </g>
   
@@ -88,6 +72,56 @@
       <feBlend mode="normal" in2="BackgroundImageFix" result="e1"></feBlend>
       <feBlend mode="normal" in="SourceGraphic" in2="e1" result="shape"></feBlend>
     </filter>
+    
+    <!-- Filtre de lueur pour le texte -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Gradient animé principal (5 couleurs vibrantes) -->
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF006B">
+        <animate attributeName="stop-color" values="#FF006B; #FF00E6; #7F00FF; #00FFE0; #FF006B" dur="6s" repeatCount="indefinite"></animate>
+        <animate attributeName="offset" values="0; 0.3; 0" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="33%" stop-color="#FF00E6">
+        <animate attributeName="stop-color" values="#FF00E6; #7F00FF; #00FFE0; #FF006B; #FF00E6" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="66%" stop-color="#7F00FF">
+        <animate attributeName="stop-color" values="#7F00FF; #00FFE0; #FF006B; #FF00E6; #7F00FF" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#00FFE0">
+        <animate attributeName="stop-color" values="#00FFE0; #FF006B; #FF00E6; #7F00FF; #00FFE0" dur="6s" repeatCount="indefinite"></animate>
+        <animate attributeName="offset" values="1; 0.7; 1" dur="6s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+    
+    <!-- Gradient de lueur -->
+    <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00E6">
+        <animate attributeName="stop-color" values="#FF00E6; #00FFE0; #7F00FF; #FF006B; #FF00E6" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#00FFE0">
+        <animate attributeName="stop-color" values="#00FFE0; #7F00FF; #FF006B; #FF00E6; #00FFE0" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+    
+    <!-- Gradient secondaire pour le sous-titre -->
+    <linearGradient id="secondaryGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFE0" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#00FFE0; #7F00FF; #FF00E6; #00FFE0" dur="8s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="50%" stop-color="#7F00FF" stop-opacity="1">
+        <animate attributeName="stop-color" values="#7F00FF; #FF00E6; #00FFE0; #7F00FF" dur="8s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#FF00E6" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#FF00E6; #00FFE0; #7F00FF; #FF00E6" dur="8s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
     
     <!-- Dégradés d'arrière-plan -->
     <radialGradient id="p0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325.5 680.5) rotate(15.6949) scale(691.274 559.341)">
@@ -119,18 +153,5 @@
       <stop stop-color="white" stop-opacity="0.43"></stop>
       <stop offset="1" stop-opacity="0"></stop>
     </radialGradient>
-    
-    <!-- Dégradé pour le texte -->
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FFE0" stop-opacity="0.8">
-        <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite"></animate>
-      </stop>
-      <stop offset="50%" stop-color="#FF006B" stop-opacity="1">
-        <animate attributeName="offset" values="0.5;1;0;0.5" dur="4s" repeatCount="indefinite"></animate>
-      </stop>
-      <stop offset="100%" stop-color="#7F00FF" stop-opacity="0.8">
-        <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite"></animate>
-      </stop>
-    </linearGradient>
   </defs>
 </svg>
